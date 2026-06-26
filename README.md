@@ -22,7 +22,7 @@ A cybersecurity web application that verifies file integrity using cryptographic
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/file-integrity-checker.git
+git clone https://github.com/SUJAL20099/file-integrity-checker.git
 cd file-integrity-checker
 pip install -r requirements.txt
 python app.py
